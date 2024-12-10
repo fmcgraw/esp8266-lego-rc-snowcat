@@ -8,5 +8,7 @@ This is not a finished project, but one of the latest firmware for the Lego all-
 
 # Схема подключения
 
-
+<p align="center">
+    <img src="images/wemos-d1-mini-connect-lego-snowcat.jpg" width="600" >
+</p>
 
