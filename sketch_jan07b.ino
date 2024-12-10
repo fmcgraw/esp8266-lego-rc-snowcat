@@ -1,7 +1,7 @@
 /**
   @file    wifi_car_esp8266_AP.ino
   @brief   Simple example of Wifi Car controlled by a web server in AP Mode. See also :
-           https://github.com/fmcgraw/wifi-car-esp8266
+           https://github.com/lacour-vincent/wifi-car-esp8266
 
            Example of commands to control the car :
            
